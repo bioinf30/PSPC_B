@@ -5,3 +5,8 @@ I have added some functions and features to change the background colour of my c
 
 ### New change
 Changed blue background to green as per original ticket request and comments/feedback received.
+
+### Additional Testing required so making changes to the script
+Test 1 added
+Test 2 functions added
+Test results expected confirmed
