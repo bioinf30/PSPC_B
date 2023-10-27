@@ -2,3 +2,6 @@ This is a file created to demo git - 27th October 2023
 
 ### Adding extra features to my existing script
 I have added some functions and features to change the background colour of my cartoons. This request was made by users so they can have a blue background and some added functionalities.
+
+### New change
+Changed blue background to green as per original ticket request and comments/feedback received.
